@@ -1,0 +1,87 @@
+Hi Welcome to SpringLake Bank,
+
+
+What would you like to do today?
+1. Open an Account
+2. Account Balance Details
+3. Deposit Amount
+4. Withdraw Amount
+5. Close Account
+
+9. Exit
+Enter your option ...: 2    
+Enter your account number: 10001
+Account balance of  10001 as of today is 8000.00 
+
+
+What would you like to do today?
+1. Open an Account
+2. Account Balance Details
+3. Deposit Amount
+4. Withdraw Amount
+5. Close Account
+
+9. Exit
+Enter your option ...: 1
+Enter you name: Johan
+Enter you email id: jo@gmail.com
+Do you want to open Checking/Saving account: checking
+Amount to deposit for opening Balance: 5000.00
+
+New Account # 10007  for  Johan created 
+
+
+Please enter a valid option! (1 / 2 / 3 / 4 / 5 / 9)
+
+
+What would you like to do today?
+1. Open an Account
+2. Account Balance Details
+3. Deposit Amount
+4. Withdraw Amount
+5. Close Account
+
+9. Exit
+Enter your option ...: 3
+Enter your account number: 10007
+Enter amount to deposit: 400.15
+Amount 400.15 has been deposited to account  10007  and new balance is 5400.15 
+
+
+What would you like to do today?
+1. Open an Account
+2. Account Balance Details
+3. Deposit Amount
+4. Withdraw Amount
+5. Close Account
+
+9. Exit
+Enter your option ...: 4
+Enter your account number: 10007
+Enter amount to withdraw: 600
+Amount 600.0 has been withdrawn from account  10007  and new balance is 4800.15 
+
+
+What would you like to do today?
+1. Open an Account
+2. Account Balance Details
+3. Deposit Amount
+4. Withdraw Amount
+5. Close Account
+
+9. Exit
+Enter your option ...: 5
+Are you really sure that you want to close the account (Y/N): y
+Enter your account number: 10007
+Account 10007 has been closed successfully!
+
+
+What would you like to do today?
+1. Open an Account
+2. Account Balance Details
+3. Deposit Amount
+4. Withdraw Amount
+5. Close Account
+
+9. Exit
+Enter your option ...:  
