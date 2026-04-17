@@ -218,10 +218,6 @@ Amount to deposit for opening Balance: 1000
 New Account # 101 for John Doe created
 ```
 
-## Disclaimer
-
-Comments and documentation in this program were generated with assistance from GitHub Copilot Chat.
-
 ## License
 
 This is a sample educational project for banking operations.
@@ -233,8 +229,8 @@ This is a sample educational project for banking operations.
 - All monetary amounts should be positive numbers
 - Email validation is not enforced at input level
 
------
-DISCLAIMER: Comments and documentation in this program were generated with assistance 
-from GitHub Copilot Chat.
+## Disclaimer
+
+Comments and documentation in this program were generated with assistance from GitHub Copilot Chat. 
 
 For more information about the code structure, refer to the inline comments in `SL_Bank_OOPs.py`.
